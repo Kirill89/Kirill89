@@ -3,6 +3,44 @@
 
 ---
 
+## Blogs
+
+- 2022-05-24 [Snyk finds 200+ malicious npm packages, including Cobalt Strike dependency confusion attacks](https://snyk.io/blog/snyk-200-malicious-npm-packages-cobalt-strike-dependency-confusion-attacks/)
+- 2022-04-04 [Exploring 3 types of directory traversal vulnerabilities in C/C++](https://snyk.io/blog/exploring-3-types-of-directory-traversal-vulnerabilities-in-c-c/)
+- 2022-01-10 [Exploiting URL parser confusion](https://security.claroty.com/URLparserconfusion)
+- 2021-06-02 [Mitigating and remediating intent-based Android security vulnerabilities](https://snyk.io/blog/mitigating-remediating-intent-based-android-security-vulnerabilities/)
+- 2021-05-27 [Hunting intent-based Android security vulnerabilities with Snyk Code](https://snyk.io/blog/hunting-intent-based-android-security-vulnerabilities-with-snyk-code/)
+- 2021-05-18 [Exploring intent-based Android security vulnerabilities on Google Play](https://snyk.io/blog/exploring-android-intent-based-security-vulnerabilities-google-play/)
+- 2021-05-06 [Deep dive into Visual Studio Code extension security vulnerabilities](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive/)
+- 2020-10-15 [SourMint Malicious SDK Research write up](https://snyk.io/research/sour-mint-malicious-sdk/)
+- 2020-03-26 [Exploring the minimist prototype pollution security vulnerability](https://snyk.io/blog/prototype-pollution-minimist/)
+- 2016-12-07 [Remote (dev)tools своими руками – интервью с Романом Дворновым (Авито)](https://habr.com/ru/company/jugru/blog/317060/)
+- 2016-10-21 [Дробим монолит: Рефакторинг архитектуры Web-приложений](https://habr.com/ru/company/jugru/blog/313286/)
+- 2016-08-16 [Запускаем Node.js на JVM](https://habr.com/ru/post/307856/)
+- 2012-02-06 [MSP430, учимся программировать и отлаживать железо (часть 3)](https://habr.com/ru/post/137719/)
+- 2012-02-01 [MSP430, учимся программировать и отлаживать железо (часть 2)](https://habr.com/ru/post/137431/)
+- 2012-01-09 [MSP430, учимся программировать и отлаживать железо](https://habr.com/ru/post/137205/)
+- 2011-06-20 [Amazon Route 53 и бесперебойная работа сайта](https://habr.com/ru/post/122238/)
+
+---
+
+## Talks
+
+- 2021-12-15 [Log4Shell: What You Need to Know About the Log4j Vulnerability](https://youtu.be/a1PDwB4T0-A)
+- 2021-11-23 WeAreDevelopers JavaScript Congress 2021: Vulnerable VS Code extensions are now at your front door
+- 2021-11-16 INTENT Summit: 1-click to infiltrate your org via vulnerable VS Code extensions
+- 2021-11-03 [Ekoparty 2021: 1-click to infiltrate your organization via vulnerable VS Code extensions](https://youtu.be/ItLsB0sApbo)
+- 2021-06-02 [I can use VS Code to hack into your development environment](https://youtu.be/pkvywMhd30c)
+- 2020-10-15 [
+Security BSides Dublin: The Case Of Malicious Advertisement SDK Affecting Thousands Of Mobile Apps](https://youtu.be/lSNYQ03VEaE)
+- 2015-10-10 [Учим linux вместе: Настройка окружения для написания модулей](https://youtu.be/WLysbPT3HcI)
+- 2015-10-10 [Учим linux вместе: Взаимодействие с proc fs](https://youtu.be/JBnGt2GyL5s)
+- 2015-09-19 [Учим linux вместе: Как происходит загрузка ОС](https://youtu.be/-k5PYqdG0cQ)
+
+---
+
+## Vulnerabilities
+
 1. Open Redirect in [Gophish](https://github.com/gophish/gophish/pull/2262)
 1. Path Traversal in [Pistache](https://github.com/pistacheio/pistache/pull/1065) `CVE-2022-26068`, `C/C++`
 1. Path Traversal in [Webcc](https://github.com/sprinfall/webcc/commit/55a45fd5039061d5cc62e9f1b9d1f7e97a15143f) `CVE-2022-25298`, `C/C++`
