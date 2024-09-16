@@ -26,6 +26,7 @@
 
 ## Talks
 
+- 2024-09-14 BSides Kraków: Don’t Make This Mistake: Painful Learnings of Applying AI in Security
 - 2024-08-06 [BSides Las Vegas: Don’t Make This Mistake: Painful Learnings of Applying AI in Security](https://youtu.be/fB-ykqpCYfk?si=X3v2eVwXC5uWZzko)
 - 2021-12-15 [Log4Shell: What You Need to Know About the Log4j Vulnerability](https://youtu.be/a1PDwB4T0-A)
 - 2021-11-23 WeAreDevelopers JavaScript Congress 2021: Vulnerable VS Code extensions are now at your front door
