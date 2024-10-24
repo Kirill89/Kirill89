@@ -5,6 +5,7 @@
 
 ## Blogs
 
+- 2024-10-24 [Reliable automatic code fixes with AI](https://content.mobb.ai/blog/reliable-automatic-code-fixes-with-ai)
 - 2022-05-24 [Snyk finds 200+ malicious npm packages, including Cobalt Strike dependency confusion attacks](https://snyk.io/blog/snyk-200-malicious-npm-packages-cobalt-strike-dependency-confusion-attacks/)
 - 2022-04-04 [Exploring 3 types of directory traversal vulnerabilities in C/C++](https://snyk.io/blog/exploring-3-types-of-directory-traversal-vulnerabilities-in-c-c/)
 - 2022-01-10 [Exploiting URL parser confusion](https://security.claroty.com/URLparserconfusion)
