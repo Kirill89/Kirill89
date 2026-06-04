@@ -5,6 +5,7 @@
 
 ## Blogs
 
+- 2026-06-04 [Anatomy of Prompt Injection](https://medium.com/@kirill89/anatomy-of-prompt-injection-d97ddaea9089)
 - 2026-05-17 [Build your own agentic framework — the no-magic version](https://medium.com/@kirill89/build-your-own-agentic-framework-the-no-magic-version-8858d5ee94d0)
 - 2026-05-08 [Your AI coding assistant is quietly shipping your secrets](https://mobb.ai/blog/your-ai-coding-assistant-is-quietly-shipping-your-secret) [[1](https://mobb.ai/blog/your-ai-coding-assistant-is-quietly-shipping-your-secret), [2](https://reykur.io/blog/ai-coding-assistant-shipping-secrets/)]
 - 2024-10-24 [Reliable automatic code fixes with AI](https://content.mobb.ai/blog/reliable-automatic-code-fixes-with-ai)
