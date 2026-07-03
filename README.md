@@ -5,6 +5,7 @@
 
 ## Blogs
 
+- 2026-07-03 [Open-weight models are dependencies. Treat them like dependencies](https://medium.com/@kirill89/open-weight-models-are-dependencies-treat-them-like-dependencies-4d5e0aacfeda)
 - 2026-06-23 [Why prompt injection works: a Transformer-level view](https://medium.com/@kirill89/why-prompt-injection-works-a-transformer-level-view-d5e3cfa31525)
 - 2026-06-04 [Anatomy of Prompt Injection](https://medium.com/@kirill89/anatomy-of-prompt-injection-d97ddaea9089)
 - 2026-05-17 [Build your own agentic framework — the no-magic version](https://medium.com/@kirill89/build-your-own-agentic-framework-the-no-magic-version-8858d5ee94d0)
