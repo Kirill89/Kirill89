@@ -5,6 +5,7 @@
 
 ## Blogs
 
+- 2026-07-29 [Apache Server-Status Exposure Is Still Real in 2026](https://www.mobb.ai/blog/apache-server-status-exposure-is-still-real-in-2026)
 - 2026-07-24 [4,500 websites leaked their source code in 2024. Here's how many still do in 2026](https://reykur.io/blog/exposed-git-directories-2026/)
 - 2026-07-03 [Open-weight models are dependencies. Treat them like dependencies](https://medium.com/@kirill89/open-weight-models-are-dependencies-treat-them-like-dependencies-4d5e0aacfeda)
 - 2026-06-23 [Why prompt injection works: a Transformer-level view](https://medium.com/@kirill89/why-prompt-injection-works-a-transformer-level-view-d5e3cfa31525)
